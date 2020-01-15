@@ -12,15 +12,16 @@
 </p>
 
 <h1>Datos del Proyecto</h1>
-* **Nombre Proyecto:** Ventas de Maletas
 
-* **Lenguaje de Programación:** Java 8
+**Nombre Proyecto:** Ventas de Maletas
 
-* **Entorno de Desarrollo:** Eclipse Mars
+**Lenguaje de Programación:** Java 8
 
-* **Instituto:** Cibertec 2019-II
+**Entorno de Desarrollo:** Eclipse Mars
 
-* **Curso:** Introducción a la Algoritmia
+**Instituto:** Cibertec 2019-II
+
+**Curso:** Introducción a la Algoritmia
 
 # Pasos para importar:
  1. *Escoger un **Espacio** de trabajo en el computador desde Eclipse*
@@ -61,3 +62,4 @@
 10. *Ir al botón **Finish**.*
 
 <p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/09Finish.jpg "></p>
+
