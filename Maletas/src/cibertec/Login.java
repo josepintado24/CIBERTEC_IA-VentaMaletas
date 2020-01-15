@@ -147,15 +147,11 @@ public class Login extends JDialog implements ActionListener, MouseListener {
 						}
 					else{
 						if ((user.equals(BaseDatos.vendedor1))&&(pass.equals(BaseDatos.passVendedor1))){
-							MenuAdmin ven = new MenuAdmin();
-							ven.setVisible(true);
-							setVisible(false);							
+												
 						}
 						else {
 							if ((user.equals(BaseDatos.vendedor2))&&(pass.equals(BaseDatos.passVendedor2))){
-								MenuAdmin ven = new MenuAdmin();
-								ven.setVisible(true);
-								setVisible(false);
+								
 								}
 							else{
 								lblMensaje.setText("No son los datos correctos.");
