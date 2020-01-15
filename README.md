@@ -1,8 +1,18 @@
-## Proyecto Final Introducción a la Algoritmia
-![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/2020-01-14_11-36-30.jpg)
-# Detalles del Proyecto
 
-* **Nombre Proyecto:** Ventas de Perfumes
+
+ <b><h1>Ventas de Maletas</h1></b>
+ <p align="center"><br>
+  <a href="#">Java 8</a> |
+  <a href="#">Eclipse Mars</a> |
+  <a href="#">Cibertec 2019-II</a> |
+  <a href="#">Introducción a la Algoritmia</a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/Login.jpg ">
+  <img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/MenuPrincipal.jpg ">
+</p>
+
+<h1>Datos del Proyecto</h1>
+* **Nombre Proyecto:** Ventas de Maletas
 
 * **Lenguaje de Programación:** Java 8
 
@@ -14,41 +24,40 @@
 
 # Pasos para importar:
  1. *Escoger un **Espacio** de trabajo en el computador desde Eclipse*
-
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/space.jpg)
+<p align="center"><br>
+<img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/01WokSpace.jpg "></p>
 
 2. *Seguir la secuencia, ir a la opción **import**.*
-
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/SelectImport.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/02Import.jpg "></p>
 
 3. *Seguir la secuencia, ir a la opción **Projects from Git**.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/importGit.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/03ProjectsGit.jpg "></p>
 
 4. *Seguir la secuencia, ir a la opción **Clone URL**.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/importGitURL.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/04CloneURL.jpg "></p>
 
 5. *Ir a la ubicación del proyecto, tener copiado el enlace.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/copyBrowser.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/04_1CopyURL.jpg "></p>
 
 6. *Basta con pegar la url en la casilla **url**, inmediatamente las siguientes casillas se llenarán. Authentication no es necesario rellenar.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/PasteURL.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/05PasteURL.jpg "></p>
 
 7. *Ir al botón **Next**.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/nex01.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/06Nex01.jpg "></p>
 
 8. *Ir al botón **Next**.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/nex02.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/07Nex02.jpg "></p>
 
 9. *Ir al botón **Next**.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/nex03.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/08Nex03.jpg "></p>
 
 10. *Ir al botón **Finish**.*
 
->![ScreenShot](https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaPerfumes/master/VentaPerfumes/screenshot/finish.jpg)
+<p align="center"><br><img src="https://raw.githubusercontent.com/josepintado24/CIBERTEC_IA-VentaMaletas/master/Maletas/ScreenShot/09Finish.jpg "></p>
